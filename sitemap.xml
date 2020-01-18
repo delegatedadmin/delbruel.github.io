@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://delbruel.net/contact/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://delbruel.net/projects/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://delbruel.net/pubs/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://delbruel.net/sandaw/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://delbruel.net/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://delbruel.net/post/news/</loc>
+  </url>
+  
+  <url>
+    <loc>https://delbruel.net/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://delbruel.net/</loc>
+  </url>
+  
+  <url>
+    <loc>https://delbruel.net/tags/</loc>
+  </url>
+  
+</urlset>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Stéphane Delbruel</title>
+    <link>https://delbruel.net/post/</link>
+    <description>Recent content in Posts on Stéphane Delbruel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://delbruel.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Last Event</title>
+      <link>https://delbruel.net/post/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://delbruel.net/post/news/</guid>
+      <description>We will present our work on the first distributed federation for LoRaWAN actors at EWSN 2020, aimed at improving scalability and tackling contention by establishing a de facto collaborative behaviour between gateways, thus allowing free roaming capabilities without preliminary agreements. Our PoC can be found here: FLIP.</description>
+    </item>
+    
+  </channel>
+</rss>

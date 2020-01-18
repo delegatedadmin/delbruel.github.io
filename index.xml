@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stéphane Delbruel</title>
+    <link>https://delbruel.net/</link>
+    <description>Recent content on Stéphane Delbruel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://delbruel.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://delbruel.net/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://delbruel.net/contact/</guid>
+      <description>
+stephane.delbruel @ kuleuven.be +3216374538 Dpt Computer Science, KU Leuven </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://delbruel.net/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://delbruel.net/projects/</guid>
+      <description>A Distributed Federation for LoRaWAN : FLIP This work aims to propose a collaborative platform for LoRaWAN actors.
+ Backward compatibility with any deployed Class A end-device Free roaming inside the federation Cheap entry price: 1 Raspberry Pi Participating clusters in various European cities  More resources in the official repository: here.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://delbruel.net/pubs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://delbruel.net/pubs/</guid>
+      <description>Journals   [submitted] Simplifying CPS Application Development through Fine-grained, Automatic Timeout Predictions with Stefanos Peros, Sam Michiels, Wouter Joosen and Danny Hughes at ACM Transactions on Internet of Things
+  [submitted] Chimera: A low-power reconfigurable platform for Internet of Things with Emekcan Aras, Fan Yang, Wouter Joosen and Danny Hughes at ACM Transactions on Internet of Things
+  Conferences   Tackling Contention Through Cooperation: A Distributed Federation in LoRaWAN Space with Nicolas Small, Emekcan Aras, Jonathan Oostvogels and Danny Hughes at International Conference on Embedded Wireless Systems and Networks (EWSN 2020)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://delbruel.net/sandaw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://delbruel.net/sandaw/</guid>
+      <description>Academic Service I&#39;m actually involved in the co-organization of the 5th ASF GDR Winter school in distributed systems as well as serving as co-chair on the M4IoT workshop (2019,2018,2017) collocated with ACM/IFIP/USENIX Middleware conference. I also served in the Technical Program Committee for DFSD (2020, 2019) as well as Shadow PC member for Eurosys (2019, 2018).
+I&#39;ve been a visiting researcher at Università della Svizzera Italiana in Switzerland during summer 2016 under the supervision of Pr.</description>
+    </item>
+    
+    <item>
+      <title>Last Event</title>
+      <link>https://delbruel.net/post/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://delbruel.net/post/news/</guid>
+      <description>We will present our work on the first distributed federation for LoRaWAN actors at EWSN 2020, aimed at improving scalability and tackling contention by establishing a de facto collaborative behaviour between gateways, thus allowing free roaming capabilities without preliminary agreements. Our PoC can be found here: FLIP.</description>
+    </item>
+    
+  </channel>
+</rss>
