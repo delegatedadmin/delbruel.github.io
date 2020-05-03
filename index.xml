@@ -38,7 +38,7 @@ stephane.delbruel @ kuleuven.be +3216374538 Dpt Computer Science, KU Leuven </de
       <guid>https://delbruel.net/pubs/</guid>
       <description>Journals   Simplifying CPS Application Development through Fine-grained, Automatic Timeout Predictions with Stefanos Peros, Sam Michiels, Wouter Joosen and Danny Hughes at ACM Transactions on Internet of Things
   [submitted] Chimera: A low-power reconfigurable platform for Internet of Things with Emekcan Aras, Fan Yang, Wouter Joosen and Danny Hughes at ACM Transactions on Internet of Things
-  Conferences   Tackling Contention Through Cooperation: A Distributed Federation in LoRaWAN Space with Nicolas Small, Emekcan Aras, Jonathan Oostvogels and Danny Hughes at International Conference on Embedded Wireless Systems and Networks (EWSN 2020) pdf</description>
+  [submitted] Security Issues in V2X Communication Systems with Takahito Yoshizawa, Dave Singelée, Jan Tobias Mühlberg and Bart Preneel at ACM Computing Surveys</description>
     </item>
     
     <item>
@@ -47,8 +47,9 @@ stephane.delbruel @ kuleuven.be +3216374538 Dpt Computer Science, KU Leuven </de
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://delbruel.net/sandaw/</guid>
-      <description>Academic Service I&amp;rsquo;m actually involved in the co-organization of the 5th ASF GDR Winter school in distributed systems as well as serving as co-chair on the M4IoT workshop (2019,2018,2017) collocated with ACM/IFIP/USENIX Middleware conference. I also served in the Technical Program Committee for DFSD (2020, 2019) as well as Shadow PC member for Eurosys (2019, 2018).
-I&amp;rsquo;ve been a visiting researcher at Università della Svizzera Italiana in Switzerland during summer 2016 under the supervision of Pr.</description>
+      <description>Academic Service I&amp;rsquo;m actually involved in the co-organization of the 5th ASF GDR Winter school in distributed systems as well as co-chair for the M4IoT workshop (2019,2018,2017) collocated with ACM/IFIP/USENIX Middleware conference.
+I&amp;rsquo;m currently serving as a reviewer for ACM SIGCOMM Computer Communication Review and IEEE Transactions on Dependable and Secure Computing.
+I previously served in the Technical Program Committee for DFSD (2020, 2019) as well as Shadow PC member for Eurosys (2019, 2018).</description>
     </item>
     
     <item>
