@@ -36,7 +36,7 @@ A Distributed Federation for LoRaWAN : FLIP This work aims to propose a collabor
       <guid>https://delbruel.net/pubs/</guid>
       <description>Journals   Simplifying CPS Application Development through Fine-grained, Automatic Timeout Predictions with Stefanos Peros, Sam Michiels, Wouter Joosen and Danny Hughes at ACM Transactions on Internet of Things pdf
   Chimera: A low-power reconfigurable platform for Internet of Things with Emekcan Aras, Fan Yang, Wouter Joosen and Danny Hughes at ACM Transactions on Internet of Things pdf
-  [submitted] Security Issues in V2X Communication Systems with Takahito Yoshizawa, Dave Singelée, Jan Tobias Mühlberg and Bart Preneel at ACM Computing Surveys</description>
+  Conferences   A Federated Fog-Cloud Framework for Data Processing and Orchestration: A Case Study in Smart Cities with Dapeng Lan, Yu Liu, Amir Taherkordi, Frank Eliassen and Lei Liu at ACM/SIGAPP Symposium On Applied Computing (ACM SAC 2021)</description>
     </item>
     
     <item>
@@ -45,7 +45,7 @@ A Distributed Federation for LoRaWAN : FLIP This work aims to propose a collabor
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://delbruel.net/sandaw/</guid>
-      <description>Academic Service I&amp;rsquo;m actually involved in the co-organization of the 5th ASF GDR Winter school in distributed systems as well as co-chair for the M4IoT workshop (2021,2020,2019,2018,2017) collocated with ACM/IFIP/USENIX Middleware conference.
+      <description>Academic Service I&amp;rsquo;m actually involved in the co-organization of the ASF GDR Winter school in distributed systems as well as co-chair for the M4IoT workshop (2021,2020,2019,2018,2017) collocated with ACM/IFIP/USENIX Middleware conference.
 I have served as a reviewer for IEEE International Conference on Distributed Computing Systems, ACM SIGCOMM Computer Communication Review and IEEE Transactions on Dependable and Secure Computing.
 I also previously served in the Technical Program Committee for DFSD (2020, 2019) as well as Shadow PC member for Eurosys (2019, 2018).</description>
     </item>
