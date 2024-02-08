@@ -5,7 +5,7 @@
     <link>https://delbruel.net/</link>
     <description>Recent content on Stéphane Delbruel</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://delbruel.net/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://delbruel.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://delbruel.net/contact/</link>
@@ -14,6 +14,25 @@
       <guid>https://delbruel.net/contact/</guid>
       <description>
 stephane.delbruel @ labri.fr +33 (0)5 40 00 69 21 LaBRI </description>
+      <content>&lt;p&gt;&lt;br&gt;
+&lt;br&gt;
+
+&lt;img src=&#34;https://delbruel.net/envelope.svg&#34;  alt=&#34;Hello Friend&#34;  class=&#34;center&#34;  style=&#34;border-radius: 2px;&#34;    /&gt;
+
+&lt;p style=&#34;text-align: center;&#34;&gt; stephane.delbruel @ labri.fr &lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+&lt;img src=&#34;https://delbruel.net/phone.svg&#34;  alt=&#34;Hello Friend&#34;  class=&#34;center&#34;  style=&#34;border-radius: 2px;&#34;    /&gt;
+
+&lt;p style=&#34;text-align: center;&#34;&gt; +33 (0)5 40 00 69 21 &lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+&lt;img src=&#34;https://delbruel.net/map.svg&#34;  alt=&#34;Hello Friend&#34;  class=&#34;center&#34;  style=&#34;border-radius: 2px;&#34;    /&gt;
+
+&lt;p style=&#34;text-align: center;&#34;&gt; &lt;a href=&#34;https://www.openstreetmap.org/way/162254451#map=19/44.80831/-0.59655&amp;amp;layers=N&#34;&gt;LaBRI&lt;/a&gt; &lt;/p&gt;&lt;/p&gt;
+</content>
     </item>
     
     <item>
@@ -22,10 +41,33 @@ stephane.delbruel @ labri.fr +33 (0)5 40 00 69 21 LaBRI </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://delbruel.net/projects/</guid>
-      <description>DILUTE: Fluid Service Abstraction for Large-Scale Cloud IoT Systems This project address the question of geo-distributed resources management and service placement in the context of fog computing.
+      <description>Projects and Grants UniPHY: ANR JCJC - 2024-2028 (370k€)
+AuthentiPHY: Collaboration with KULeuven - 2023-2026 (130k€)
+CoCoMile: PHC Aurora - 2021-2023 (10k€)
+PHYsec: UB Grants - 2021-2022 (20k€)
+DILUTE: Fluid Service Abstraction for Large-Scale Cloud IoT Systems This project address the question of geo-distributed resources management and service placement in the context of fog computing.
 More resources on the official webpage: here
-A Distributed Federation for LoRaWAN : FLIP This work aims to propose a collaborative platform for LoRaWAN actors.
- Backward compatibility with any deployed Class A end-device Free roaming inside the federation Cheap entry price: 1 Raspberry Pi Participating clusters in various European cities  More resources in the official repository: here.</description>
+A Distributed Federation for LoRaWAN : FLIP This work aims to propose a collaborative platform for LoRaWAN actors.</description>
+      <content>&lt;h1 id=&#34;projects-and-grants&#34;&gt;Projects and Grants&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;UniPHY&lt;/strong&gt;: ANR JCJC - 2024-2028 (370k€)&lt;br&gt;
+&lt;strong&gt;AuthentiPHY&lt;/strong&gt;: Collaboration with KULeuven - 2023-2026 (130k€)&lt;br&gt;
+&lt;strong&gt;CoCoMile&lt;/strong&gt;: PHC Aurora - 2021-2023 (10k€)&lt;br&gt;
+&lt;strong&gt;PHYsec&lt;/strong&gt;: UB Grants - 2021-2022 (20k€)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;dilute-fluid-service-abstraction-for-large-scale-cloud-iot-systems&#34;&gt;DILUTE: Fluid Service Abstraction for Large-Scale Cloud IoT Systems&lt;/h1&gt;
+&lt;p&gt;This project address the question of geo-distributed resources management and service placement in the context of fog computing.&lt;/p&gt;
+&lt;p&gt;More resources on the official webpage: &lt;a href=&#34;http://www.dilute.no/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;a-distributed-federation-for-lorawan--flip&#34;&gt;A Distributed Federation for LoRaWAN : FLIP&lt;/h1&gt;
+&lt;p&gt;This work aims to propose a collaborative platform for LoRaWAN actors.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Backward compatibility with any deployed Class A end-device&lt;/li&gt;
+&lt;li&gt;Free roaming inside the federation&lt;/li&gt;
+&lt;li&gt;Cheap entry price: 1 Raspberry Pi&lt;/li&gt;
+&lt;li&gt;Participating clusters in various European cities&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More resources in the official repository: &lt;a href=&#34;https://gitlab.com/FLIP_federation/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
     </item>
     
     <item>
@@ -34,9 +76,78 @@ A Distributed Federation for LoRaWAN : FLIP This work aims to propose a collabor
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://delbruel.net/pubs/</guid>
-      <description>Journals   Simplifying CPS Application Development through Fine-grained, Automatic Timeout Predictions with Stefanos Peros, Sam Michiels, Wouter Joosen and Danny Hughes at ACM Transactions on Internet of Things pdf
-  Chimera: A low-power reconfigurable platform for Internet of Things with Emekcan Aras, Fan Yang, Wouter Joosen and Danny Hughes at ACM Transactions on Internet of Things pdf
-  Conferences   A Federated Fog-Cloud Framework for Data Processing and Orchestration: A Case Study in Smart Cities with Dapeng Lan, Yu Liu, Amir Taherkordi, Frank Eliassen and Lei Liu at ACM/SIGAPP Symposium On Applied Computing (ACM SAC 2021)</description>
+      <description>Journals A survey of security and privacy issues in v2x communication systems with Takahito Yoshizawa, Dave Singelée, Jan Tobias Muehlberg, Amir Taherkordi, Danny Hughes and Bart Preneel at ACM Computing Surveys 2023 pdf
+Task partitioning and orchestration on heterogeneous edge platforms: The case of vision applications with Dapeng Lan, Amir Taherkordi, Frank Eliassen, Lei Liu, Schahram Dustdar and Yang Yang at IEEE Internet of Things Journal 2022 pdf
+Multi-connectivity for 5g networks and beyond: A survey with Tidiane Sylla, Leo Mendiboure, Sassi Maaloul, Hasnaa Aniss and Mohamed Aymen Chalouf at MDPI Sensors 2022 pdf</description>
+      <content>&lt;h3 id=&#34;journals&#34;&gt;Journals&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;A survey of security and privacy issues in v2x communication systems&lt;/strong&gt; with &lt;em&gt;Takahito Yoshizawa, Dave Singelée, Jan Tobias Muehlberg, Amir Taherkordi, Danny Hughes and Bart Preneel&lt;/em&gt; at ACM Computing Surveys 2023 &lt;a href=&#34;https://arxiv.org/pdf/2208.14674&#34;&gt;&lt;em&gt;pdf&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Task partitioning and orchestration on heterogeneous edge platforms: The case of vision applications&lt;/strong&gt; with &lt;em&gt;Dapeng Lan, Amir Taherkordi, Frank Eliassen, Lei Liu, Schahram Dustdar and Yang Yang&lt;/em&gt; at IEEE Internet of Things Journal 2022 &lt;a href=&#34;https://dsg.tuwien.ac.at/team/sd/papers/Zeitschriftenartikel_2022_SD_Task_P.pdf&#34;&gt;&lt;em&gt;pdf&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Multi-connectivity for 5g networks and beyond: A survey&lt;/strong&gt; with &lt;em&gt;Tidiane Sylla, Leo Mendiboure, Sassi Maaloul, Hasnaa Aniss and Mohamed Aymen Chalouf&lt;/em&gt; at MDPI Sensors 2022 &lt;a href=&#34;https://www.mdpi.com/1424-8220/22/19/7591/pdf&#34;&gt;&lt;em&gt;pdf&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Chimera: A low-power reconfigurable platform for Internet of Things&lt;/strong&gt; with &lt;em&gt;Emekcan Aras, Fan Yang, Wouter Joosen and Danny Hughes&lt;/em&gt; at ACM Transactions on Internet of Things 2021 &lt;a href=&#34;https://lirias.kuleuven.be/retrieve/596603&#34;&gt;&lt;em&gt;pdf&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Simplifying CPS Application Development through Fine-grained, Automatic Timeout Predictions&lt;/strong&gt; with &lt;em&gt;Stefanos Peros, Sam Michiels, Wouter Joosen and Danny Hughes&lt;/em&gt; at ACM Transactions on Internet of Things 2020 &lt;a href=&#34;https://dl.acm.org/doi/pdf/10.1145/3385960&#34;&gt;&lt;em&gt;pdf&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;conferences&#34;&gt;Conferences&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;In-depth analysis of the IDA-Gossip protocol&lt;/strong&gt; with &lt;em&gt;Kadir Korkmaz, Joachim Bruneau-Queyreix, Sonia Ben Mokhtar and Laurent Réveillère&lt;/em&gt; at IEEE International Symposium on Network Computing and Applications (IEEE NCA 2022) won the &lt;strong&gt;&lt;code&gt;BEST STUDENT PAPER AWARD&lt;/code&gt;&lt;/strong&gt; &lt;a href=&#34;https://hal.science/hal-03966190/file/ida_gossip_nca.pdf&#34;&gt;&lt;em&gt;pdf&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;A Federated Fog-Cloud Framework for Data Processing and Orchestration: A Case Study in Smart Cities&lt;/strong&gt; with &lt;em&gt;Dapeng Lan, Yu Liu, Amir Taherkordi, Frank Eliassen and Lei Liu&lt;/em&gt; at ACM/SIGAPP Symposium On Applied Computing (ACM SAC 2021)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Tackling Contention Through Cooperation: A Distributed Federation in LoRaWAN Space&lt;/strong&gt; with &lt;em&gt;Nicolas Small, Emekcan Aras, Jonathan Oostvogels and Danny Hughes&lt;/em&gt; at International Conference on Embedded Wireless Systems and Networks (EWSN 2020) &lt;a href=&#34;http://www.ewsn.org/file-repository/ewsn2020/013_024_delbruel.pdf?attredirects=0&amp;amp;d=1&#34;&gt;&lt;em&gt;pdf&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Expressive Data-Centric Multicast on RPL in Low-Power Networks&lt;/strong&gt; with &lt;em&gt;Jonathan Oostvogels, Stefanos Peros, and Danny Hughes&lt;/em&gt; at IEEE International Symposium on &amp;ldquo;A World of Wireless, Mobile and Multimedia Networks&amp;rdquo; (WoWMoM 2019)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Expressive Feature-oriented Multicast for the Internet of Things&lt;/strong&gt; with &lt;em&gt;Jonathan Oostvogels, Stefanos Peros, and Danny Hughes&lt;/em&gt; at IEEE International Conference on Distributed Computing in Sensor Systems (DCOSS 2019) &lt;a href=&#34;https://www.researchgate.net/profile/Jonathan_Oostvogels/publication/335362642_Expressive_Feature-oriented_Multicast_for_the_Internet_of_Things/links/5e903dfd299bf130798db697/Expressive-Feature-oriented-Multicast-for-the-Internet-of-Things.pdf&#34;&gt;&lt;em&gt;pdf&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Khronos: Middleware for Simplified Time Management in CPS&lt;/strong&gt; with &lt;em&gt;Stefanos Peros, Sam Michiels, Wouter Joosen and Danny Hughes&lt;/em&gt; at ACM International Conference on Distributed and Event-Based Systems (DEBS 2019) won the &lt;strong&gt;&lt;code&gt;BEST PAPER AWARD&lt;/code&gt;&lt;/strong&gt; &lt;a href=&#34;https://lirias.kuleuven.be/retrieve/547885&#34;&gt;&lt;em&gt;pdf&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;A Low-Power Hardware Platform for Smart Environment as a Call for More Flexibility and Re-Usability&lt;/strong&gt; with &lt;em&gt;Emekcan Aras, Fan Yang, Wouter Joosen and Danny Hughes&lt;/em&gt; at International Conference on
+Embedded Wireless Systems and Networks (EWSN 2019) &lt;a href=&#34;https://www.researchgate.net/profile/Emekcan_Aras/publication/332947535_A_Low-Power_Hardware_Platform_for_Smart_Environment_as_a_Call_for_More_Flexibility_and_Re-Usability/links/5cd30454299bf14d958170cd/A-Low-Power-Hardware-Platform-for-Smart-Environment-as-a-Call-for-More-Flexibility-and-Re-Usability.pdf&#34;&gt;&lt;em&gt;pdf&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Selective Jamming of LoRaWAN using Commodity Hardware&lt;/strong&gt; with &lt;em&gt;Emekcan Aras, Nicolas J. Small, Gowri Sankar Ramachandran, Wouter Joosen and Danny Hughes&lt;/em&gt; at 14th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous 2017) won the &lt;strong&gt;&lt;code&gt;BEST PAPER AWARD&lt;/code&gt;&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/pdf/1712.02141.pdf&#34;&gt;&lt;em&gt;pdf&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Mignon: A Fast Decentralized Content Consumption Estimation in Large-Scale Distributed Systems&lt;/strong&gt; with &lt;em&gt;Davide Frey and François Taïani&lt;/em&gt; at 16th IFIP International Conference on Distributed Applications and Interoperable Systems (DAIS 2016) &lt;a href=&#34;https://hal.inria.fr/hal-01301230/document&#34;&gt;&lt;em&gt;pdf&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Exploring the Use of Tags for Georeplicated Content Placement&lt;/strong&gt; with &lt;em&gt;Davide Frey and François Taïani&lt;/em&gt; at IEEE International Conference on Cloud Engineering (IC2E 2016) won the &lt;strong&gt;&lt;code&gt;BEST PAPER AWARD&lt;/code&gt;&lt;/strong&gt; &lt;a href=&#34;https://hal.inria.fr/hal-01257939/document&#34;&gt;&lt;em&gt;pdf&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;phd-thesis&#34;&gt;PhD Thesis&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Towards an architecture for tag-based predictive placement in distributed storage systems&lt;/strong&gt; (University of Rennes 1, 2017) &lt;a href=&#34;https://tel.archives-ouvertes.fr/tel-01523568/document&#34;&gt;&lt;em&gt;pdf&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;workshops-and-more&#34;&gt;Workshops and more&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Decentralized view prediction for global content placement&lt;/strong&gt; with &lt;em&gt;Davide Frey and François Taïani&lt;/em&gt; at 14th International Workshop on Adaptive and Reflective Middleware (ACM/IFIP/USENIX Middleware 2015) &lt;a href=&#34;https://hal.inria.fr/hal-01247159/document&#34;&gt;&lt;em&gt;pdf&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;From views to tags distribution in Youtube&lt;/strong&gt; with &lt;em&gt;Davide Frey and François Taïani&lt;/em&gt; at Proceedings of the Middleware&#39;14 Posters &amp;amp; Demos Session (ACM/IFIP/USENIX Middleware 2014) &lt;a href=&#34;https://hal.inria.fr/hal-01158149/document&#34;&gt;&lt;em&gt;pdf&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Géodistribution des tags et des vues dans Youtube&lt;/strong&gt; with &lt;em&gt;François Taïani&lt;/em&gt; at Conférence d’informatique en Parallélisme, Architecture et Système (Compas&#39;2015) &lt;a href=&#34;https://hal.inria.fr/hal-01162568/document&#34;&gt;&lt;em&gt;pdf&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
     </item>
     
     <item>
@@ -45,18 +156,40 @@ A Distributed Federation for LoRaWAN : FLIP This work aims to propose a collabor
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://delbruel.net/sandaw/</guid>
-      <description>Academic Service I&amp;rsquo;m actually involved in the co-organization of the ASF GDR Winter school in distributed systems as well as co-chair for the M4IoT workshop (2021,2020,2019,2018,2017) collocated with ACM/IFIP/USENIX Middleware conference.
+      <description>Academic Service I&amp;rsquo;m actually involved in the co-organization of the ASF GDR Winter school in distributed systems since 2018, as well as co-chair for the M4IoT workshop (2021,2020,2019,2018,2017) collocated with ACM/IFIP/USENIX Middleware conference.
 I have served as a reviewer for IEEE International Conference on Distributed Computing Systems, ACM SIGCOMM Computer Communication Review and IEEE Transactions on Dependable and Secure Computing.
 I also previously served in the Technical Program Committee for DFSD (2020, 2019) as well as Shadow PC member for Eurosys (2019, 2018).</description>
+      <content>&lt;h1 id=&#34;academic-service&#34;&gt;Academic Service&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;m actually involved in the co-organization of the &lt;a href=&#34;https://sites.google.com/site/rsdwinterschool/home&#34;&gt;ASF GDR Winter school in distributed systems&lt;/a&gt; since 2018,
+as well as co-chair for the M4IoT workshop (&lt;a href=&#34;http://www.m4iot.org&#34;&gt;2021&lt;/a&gt;,&lt;a href=&#34;http://www.m4iot.org/2020/&#34;&gt;2020&lt;/a&gt;,&lt;a href=&#34;http://www.m4iot.org/2019/&#34;&gt;2019&lt;/a&gt;,&lt;a href=&#34;http://www.m4iot.org/2018/&#34;&gt;2018&lt;/a&gt;,&lt;a href=&#34;http://www.m4iot.org/2017/&#34;&gt;2017&lt;/a&gt;) collocated with ACM/IFIP/USENIX Middleware conference.&lt;br&gt;
+I have served as a reviewer for IEEE International Conference on Distributed Computing Systems, ACM SIGCOMM Computer Communication Review and IEEE Transactions on Dependable and Secure Computing.&lt;br&gt;
+I also previously served in the Technical Program Committee for DFSD (2020, 2019) as well as Shadow PC member for Eurosys (&lt;a href=&#34;http://eurosys2019.org/&#34;&gt;2019&lt;/a&gt;, &lt;a href=&#34;http://eurosys2018.org/&#34;&gt;2018&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve been a visiting researcher at Università della Svizzera Italiana in Switzerland during summer 2016 under the supervision of &lt;a href=&#34;https://www.inf.usi.ch/carzaniga/&#34;&gt;Pr. Antonio Carzaniga&lt;/a&gt;, working on congestion-centred distributed routing protocols.&lt;/p&gt;
+&lt;h1 id=&#34;awards&#34;&gt;Awards&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;code&gt;BEST STUDENT PAPER AWARD&lt;/code&gt;&lt;/strong&gt; for our paper &lt;strong&gt;In-depth analysis of the IDA-Gossip protocol&lt;/strong&gt; with &lt;em&gt;Kadir Korkmaz, Joachim Bruneau-Queyreix, Sonia Ben Mokhtar and Laurent Réveillère&lt;/em&gt; at IEEE International Symposium on Network Computing and Applications (IEEE NCA 2022)  &lt;a href=&#34;https://hal.science/hal-03966190/file/ida_gossip_nca.pdf&#34;&gt;&lt;em&gt;pdf&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;code&gt;BEST PAPER AWARD&lt;/code&gt;&lt;/strong&gt; for our paper &lt;strong&gt;Khronos: Middleware for Simplified Time Management in CPS&lt;/strong&gt; with &lt;em&gt;Stefanos Peros, Sam Michiels, Wouter Joosen and Danny Hughes&lt;/em&gt; at ACM International Conference on Distributed and Event-Based Systems (DEBS 2019) &lt;a href=&#34;https://lirias.kuleuven.be/retrieve/547885&#34;&gt;&lt;em&gt;pdf&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;code&gt;BEST PAPER AWARD&lt;/code&gt;&lt;/strong&gt; for our paper &lt;strong&gt;Selective Jamming of LoRaWAN using Commodity Hardware&lt;/strong&gt; with &lt;em&gt;Emekcan Aras, Nicolas J. Small, Gowri Sankar Ramachandran, Wouter Joosen and Danny Hughes&lt;/em&gt; at 14th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous 2017) &lt;a href=&#34;https://arxiv.org/pdf/1712.02141.pdf&#34;&gt;&lt;em&gt;pdf&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;code&gt;BEST PAPER AWARD&lt;/code&gt;&lt;/strong&gt; for our paper &lt;strong&gt;Exploring the Use of Tags for Georeplicated Content Placement&lt;/strong&gt; with &lt;em&gt;Davide Frey and François Taïani&lt;/em&gt; at IEEE International Conference on Cloud Engineering (IC2E 2016) &lt;a href=&#34;https://hal.inria.fr/hal-01257939/document&#34;&gt;&lt;em&gt;pdf&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
     </item>
     
     <item>
-      <title>Last Event</title>
+      <title>Wanna join us ?</title>
       <link>https://delbruel.net/post/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://delbruel.net/post/news/</guid>
-      <description></description>
+      <description>Follow the Contact page!</description>
+      <content>&lt;p&gt;Follow the &lt;a href=&#34;https://delbruel.net/contact&#34;&gt;&lt;strong&gt;Contact&lt;/strong&gt;&lt;/a&gt; page!&lt;/p&gt;
+</content>
     </item>
     
   </channel>
